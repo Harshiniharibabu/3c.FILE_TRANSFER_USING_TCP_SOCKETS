@@ -40,11 +40,11 @@ client.close()
 ````
 ## OUTPUT
 
-<img width="1858" height="977" alt="Screenshot 2026-05-22 133016" src="https://github.com/user-attachments/assets/2088c84b-256b-46fa-85ed-315ad318388c" />
+<img width="1877" height="300" alt="Screenshot 2026-05-22 135300" src="https://github.com/user-attachments/assets/372641c9-51d9-4138-8b66-be464dc30356" />
 
 
 
-<img width="1843" height="975" alt="Screenshot 2026-05-22 133104" src="https://github.com/user-attachments/assets/2a3b6d7a-8618-423e-b592-d8cd4a709a8f" />
+<img width="1849" height="314" alt="Screenshot 2026-05-22 135237" src="https://github.com/user-attachments/assets/991aa7dd-df0d-4719-a08c-4e30d39672dc" />
 
 
 
